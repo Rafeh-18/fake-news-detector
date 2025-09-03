@@ -13,6 +13,3 @@ A machine learning project that classifies news snippets as **Fake** or **Real**
 - Flask web app for easy web-based interaction.
 
 ---
-
-## Project Structure
-
